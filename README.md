@@ -1,4 +1,4 @@
-# 📚 Course Registration System 🎓
+# 📚🎓 Course Registration System 
 
 Welcome to the **Course Registration System**! This simple Java project allows students to view, register, and track courses easily. ✨
 
@@ -34,7 +34,7 @@ Welcome to the **Course Registration System**! This simple Java project allows s
 
 ## 📝 Example Usage
 ```
-🎓 Enter student name: Alice
+🎓 Enter student name: Akanksha
 
 📌 Menu:
 1️⃣ View Courses
