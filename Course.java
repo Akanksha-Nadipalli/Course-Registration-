@@ -1,4 +1,4 @@
-public class Course {  // 'public' required since it's in a separate file
+public class Course {  
     int id;
     String cname;
     int enrolled;
