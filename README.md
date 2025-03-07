@@ -1,51 +1,61 @@
-# Course Registration System
+# 📚 Course Registration System 🎓
 
-This is a simple **Course Registration System** built using Java. It allows students to view available courses, register for them, and track their registered courses.
+Welcome to the **Course Registration System**! This simple Java project allows students to view, register, and track courses easily. ✨
 
-## Features
-- View available courses with capacity details
-- Register students for courses
-- Prevent registration if a course is full
-- Display registered courses for a student
+---
 
-## How to Run
-1. Clone this repository:
+## ✨ Features
+✅ View available courses 📜  
+✅ Register for courses 🏫  
+✅ Prevents registration if the course is full ❌  
+✅ Displays registered courses 📋  
+
+---
+
+## 🚀 How to Run
+1️⃣ **Clone this repository** 🖥️  
    ```sh
    git clone https://github.com/Akanksha-Nadipalli/Course-Registration-.git
    ```
-2. Navigate to the project folder:
+2️⃣ **Navigate to the project folder** 📂  
    ```sh
    cd Course-Registration-
    ```
-3. Compile the Java files:
+3️⃣ **Compile the Java files** 🛠️  
    ```sh
    javac Course.java Student.java CourseRegistration.java
    ```
-4. Run the program:
+4️⃣ **Run the program** ▶️  
    ```sh
    java CourseRegistration
    ```
 
-## Example Usage
-```
-Enter student name: Alice
+---
 
-Menu:
-1. View Courses
-2. Register for a Course
-3. View Registered Courses
-4. Exit
+## 📝 Example Usage
+```
+🎓 Enter student name: Alice
+
+📌 Menu:
+1️⃣ View Courses
+2️⃣ Register for a Course
+3️⃣ View Registered Courses
+4️⃣ Exit
 Enter choice: 1
 
-Available Courses:
-1. Java Programming (0/2 enrolled)
-2. Data Structures and Algorithms (0/3 enrolled)
-3. Database Management Systems (0/2 enrolled)
+📚 Available Courses:
+1️⃣ Java Programming (0/2 enrolled)
+2️⃣ Data Structures and Algorithms (0/3 enrolled)
+3️⃣ Database Management Systems (0/2 enrolled)
 ```
 
-## Contributing
-Feel free to fork this repository and submit pull requests with improvements.
+---
 
-## License
--
+## 🤝 Contributing
+👩‍💻 Feel free to **fork** this repository and submit **pull requests** with improvements! 💡✨
+
+---
+
+## 📜 License
+--
 
